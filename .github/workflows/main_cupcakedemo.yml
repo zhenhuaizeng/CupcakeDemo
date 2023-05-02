@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CupCakeDemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D037B60F71849BB96EB2E81132456C6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82F112083D06491DB09856081A5C207E }}
